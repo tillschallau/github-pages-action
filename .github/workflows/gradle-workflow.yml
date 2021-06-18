@@ -16,7 +16,6 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   github-pages-deploy:
-    needs: gradle-build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
