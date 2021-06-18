@@ -1,4 +1,4 @@
 plugins_dir: ./_plugins
 theme: jekyll-theme-cayman
 
-kdocs: ./kotlin-docs/
+kdocs: "./kotlin-docs/"
