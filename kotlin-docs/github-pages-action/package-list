@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/github-pages-action/[root]/index.html
+$dokka.location:/Documentation///PointingToDeclaration/github-pages-action/[root]/-documentation/index.html
+$dokka.location:/Documentation/Documentation/#kotlin.String#kotlin.Int/PointingToDeclaration/github-pages-action/[root]/-documentation/-documentation.html
+$dokka.location:/Documentation/addElement/#kotlin.String/PointingToDeclaration/github-pages-action/[root]/-documentation/add-element.html
+$dokka.location:/Documentation/length/#/PointingToDeclaration/github-pages-action/[root]/-documentation/length.html
+$dokka.location:/Documentation/name/#/PointingToDeclaration/github-pages-action/[root]/-documentation/name.html
+
+
