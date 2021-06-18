@@ -1,6 +1,7 @@
 Index
 [Kotlin-Docs](./kotlin-docs/)
 
-{{ Documentation | html }}
-{{ uper | upcase }}
+{{ "Documentation" | ghpage }}
+{{ "[root]/Documentation/length" | ghpage }}
+{{ "toUpper" | upcase }}
 {{ "uper" | upcase }}

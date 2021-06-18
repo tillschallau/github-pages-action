@@ -1,6 +1,6 @@
 module KotlinDocFilter
-  def html(fqn)
-    html = ""
+  def ghpage(fqn)
+    html = "./kotlin-docs/"
     fqn.each_char { |c|
       if (/[[:upper:]]/.match(c))
         html.concat("-")
