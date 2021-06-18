@@ -25,6 +25,8 @@ jobs:
     - uses: actions/setup-java@v1
       with:
         java-version: 11
+    - run: ls -l
     - uses: eskatos/gradle-command-action@v1
       with:
         arguments: build
+        build-root-directory: .
