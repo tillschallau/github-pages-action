@@ -7,3 +7,5 @@ Index
 {{ "uper" | upcase }}
 {{ "constTest" | constOut }}
 {{ "constTestNamespace" | KotlinDocFilter::constOut }}
+Global variable:
+{{ site.kdocs | append: "-documentation"}
