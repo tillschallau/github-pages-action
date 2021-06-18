@@ -8,5 +8,5 @@ Index
 {{ "constTest" | constOut }}
 {{ "constTestNamespace" | KotlinDocFilter::constOut }}
 Global variable:
-{{ site.data.kdocs | append: "-documentation"}
-{{ site.data.kdocs}
+{{ site.data.kdocs | append: "-documentation" }}
+{{ site.data.kdocs }}
