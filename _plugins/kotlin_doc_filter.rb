@@ -15,4 +15,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::KotlinDocFilter);
+Liquid::Template.register_filter(Jekyll::KotlinDocFilter)
