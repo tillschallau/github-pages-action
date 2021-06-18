@@ -1,5 +1,9 @@
 module Jekyll
   module KotlinDocFilter
+    def constOut(input)
+      "const"+input
+    end
+
     def ghpage(fqn)
       html = "./kotlin-docs/"
       fqn.each_char { |c|
