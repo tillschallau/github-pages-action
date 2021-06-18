@@ -1,2 +1,4 @@
 Index
-[Kotlin-Docs](/kotlin-docs/)
+[Kotlin-Docs](./kotlin-docs/)
+
+{{ Documentation | html }}
