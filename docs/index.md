@@ -5,3 +5,5 @@ Index
 {{ "[root]/Documentation/length" | ghpage }}
 {{ "toUpper" | upcase }}
 {{ "uper" | upcase }}
+{{ "constTest" | constOut }}
+{{ "constTestNamespace" | KotlinDocFilter::constOut }}
