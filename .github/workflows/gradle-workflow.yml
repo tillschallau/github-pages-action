@@ -5,10 +5,8 @@ name: Deploy Workflow
 # Controls when the action will run. 
 on:
   workflow_run:
-    workflows:
-      - "Default Workflow"
-    branches:
-      - [master]
+    workflows: [ "Default Workflow" ]
+    branches: [master]
     types:
       - completed
 
