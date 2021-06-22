@@ -6,7 +6,7 @@
  * @param name The name of the documentation
  * @param length The length of the documentation
  */
-data class Documentation(var name: String, var length: Int) {
+data class Documentation(var name: String, var length: In) {
 
     /**
      * Adds the given element to the name
